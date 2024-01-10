@@ -6,9 +6,7 @@
     <title>Resume Website</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<img src="JER.jpg" alt="JER">
-
-
+ 
 <body>
     <header>
         <h1>JEREICAH YVHONE GANEB</h1>
